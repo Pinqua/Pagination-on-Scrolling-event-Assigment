@@ -1,7 +1,7 @@
 
 ## Demo
 
-[LIVE](https://ria-ps.vercel.app/)
+[LIVE](https://pos-ps.vercel.app/)
 
 
 
@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/Netflix-Clone.git
+  git clone https://github.com/Pinqua/Pagination-on-Scrolling-event-Assigment.git
 ```
 
 Go to the project directory
